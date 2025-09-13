@@ -25,7 +25,7 @@ Aquí encontrarás todos los materiales que iremos trabajando en nuestras clases
 Que este espacio sea tu **aliado de estudio**, donde puedas encontrar explicaciones claras, ejemplos prácticos y material de refuerzo siempre que lo necesites.  
 
 ---
-##Bibliografía
+## Libros que se usaran 
 https://drive.google.com/file/d/1Opb9mi0tX_8_d4T4sy9r-3bcytLfBNSl/edit
 https://docs.google.com/file/d/0B0Bs5IyJBf16SG1GZHZoVmEtelE/edit?resourcekey=0-R_HdzqePNrtpSb2Ml-wv0A
 
