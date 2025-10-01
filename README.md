@@ -35,6 +35,6 @@ https://drive.google.com/file/d/0B1QuKxMndwlYNE80UTJBWmt4c00/edit?resourcekey=0-
 LABORATORIO VIRTUAL:
 Simulación de MRU y MRUV: https://aulaquest.com/simulacion/simulador-mru-y-mrua-movimiento-rectilineo-online/
 Movimiento circular: https://phet.colorado.edu/sims/cheerpj/ladybug-motion-2d/latest/ladybug-motion-2d.html?simulation=ladybug-motion-2d&locale=es
-Movimiento de un prpyectil: https://phet.colorado.edu/es/simulations/projectile-motion
+Movimiento de un proyectil: https://phet.colorado.edu/es/simulations/projectile-motion
 ## 📩 Contacto  
 Si tienes dudas o necesitas repaso extra, escríbeme directamente y lo revisamos en clase.  
